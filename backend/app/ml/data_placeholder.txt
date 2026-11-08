@@ -1,0 +1,1 @@
+Place the IBM Telco Customer Churn CSV here as WA_Fn-UseC_-Telco-Customer-Churn.csv. The application intentionally shows no sample metrics until real data and a trained model are available.
